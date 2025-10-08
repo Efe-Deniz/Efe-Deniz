@@ -75,6 +75,20 @@ My mission is simple: keep learning, keep building, and keep improving every sin
 
 ---
 
+---
+
+### 🏷️ Version History
+
+| Version | Focus | Description | Date |
+|----------|--------|--------------|------|
+| **v1.0** | 🧠 Backend (Java, Spring Boot, PostgreSQL) | Initial professional profile focused on backend development and layered architecture projects. | October 2025 |
+
+---
+
+> 📅 Next Update: *v2.0 – Full Stack Edition*  
+> Includes Frontend (React, HTML, CSS, JavaScript) and integrated projects demonstrating full-stack skills.
+
+
 > 🧩 “Software is the art of turning imagination into reality — one line of code at a time.”  
 > — *Ali Efe Deniz*
 
