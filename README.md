@@ -34,9 +34,7 @@ My mission is simple: keep learning, keep building, and keep improving every sin
 
 | Project                             | Description                                                                                                                                                                         |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚗 **RentACar Management System**   | A full-featured vehicle rental system built with Spring Boot & PostgreSQL using layered architecture. [🔗 View Repository](https://github.com/Efe-Deniz/rentacar-management-system) |
 | 🐾 **Veterinary Management System** | Java-based veterinary clinic app for managing pets, owners, and appointments using JDBC & OOP design. [🔗 View Repository](https://github.com/Efe-Deniz/veterinarymanagementsystem) |
-| 📖 **Library Management System**    | A desktop app for managing books & members, built with JavaFX and JSON integration. [🔗 View Repository](https://github.com/Efe-Deniz/-Library-Management-System)                   |
 
 🧩 *More exciting Java projects are coming soon...*
 
@@ -46,9 +44,7 @@ My mission is simple: keep learning, keep building, and keep improving every sin
 
 | Project                             | Preview                                                                                                           |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 🚗 **RentACar Management System**   | ![RentACar Preview](https://github.com/Efe-Deniz/rentacar-management-system/raw/main/screenshots/dashboard.png)   |
 | 🐾 **Veterinary Management System** | ![Veterinary Preview](https://github.com/Efe-Deniz/veterinarymanagementsystem/raw/main/screenshots/dashboard.png) |
-| 📖 **Library Management System**    | ![Library Preview](https://github.com/Efe-Deniz/-Library-Management-System/raw/main/screenshots/interface.png)    |
 
 > 🧩 *Each screenshot above will automatically appear when the images exist in the repository `/screenshots` folder.*
 
