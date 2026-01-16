@@ -1,110 +1,73 @@
-## Hi there 👋
+Hi there 👋
+<h1 align="center">I'm <span style="color:#007acc;">Ali Efe Deniz</span></h1> <h3 align="center">💻 Full-Stack JavaScript Developer (in progress) | Backend-Oriented Engineer | Lifelong Learner</h3>
+🧠 About Me
 
-<h1 align="center">I'm <span style="color:#007acc;">Ali Efe Deniz</span></h1>
-<h3 align="center">💻 Passionate Java Developer | Software Engineer in Progress | Lifelong Learner</h3>
+I’m a software developer from İzmir, Turkey, currently focusing on full-stack JavaScript development.
 
----
+My journey started with Java and backend fundamentals, where I built a strong understanding of:
+software architecture, data flow, responsibility separation, and clean code principles.
 
-### 🧠 About Me
+Today, I’m expanding that foundation into the frontend and full-stack world, working with modern JavaScript technologies while keeping a backend-first mindset.
 
-I'm a **software developer from İzmir, Turkey**, who loved Java enough to change his entire career for it.
-For me, **coding is not just logic — it’s art.**
-Every line of code is a brushstroke on the canvas of creativity.
-My mission is simple: keep learning, keep building, and keep improving every single day. 🚀
+For me, coding is not just about making things work —
+it’s about building systems that are understandable, scalable, and maintainable. 🚀
 
----
+🛠️ Tech Stack
+💬 Core Stack (Full-Stack JavaScript)
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" /> </p>
+🧠 Backend Background & Foundations
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring" /> </p>
+🗄️ Databases & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode" /> </p>
+🌱 Currently Learning & Practicing
 
-### 🛠️ Tech Stack
+⚛️ React & Component-Based Architecture
 
-#### 💬 Languages & Frameworks
+🧩 Advanced JavaScript (async patterns, state, closures)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,maven,javafx" />
-</p>
+🌐 Full-Stack Integration (frontend ↔ backend communication)
 
-#### 🗄️ Database & Tools
+🧠 Software Architecture & System Thinking
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,idea,eclipse,vscode" />
-</p>
+☁️ Deployment basics (Netlify, cloud fundamentals)
 
----
+🎯 Career Focus
 
-### 🚀 Featured Projects
+🧩 Short Term (Next 12 Months)
 
-| Project                             | Description                                                                                                                                                                         |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🐾 **Veterinary Management System** | Java-based veterinary clinic app for managing pets, owners, and appointments using JDBC & OOP design. [🔗 View Repository](https://github.com/Efe-Deniz/veterinarymanagementsystem) |
+Build strong frontend & full-stack JavaScript projects
 
-🧩 *More exciting Java projects are coming soon...*
+Strengthen React, Node.js, and API-driven development
 
----
+Transition from junior to early mid-level full-stack developer
 
-### 🖼️ Project Gallery
+🌍 Long Term (3–5 Years)
 
-| Project                             | Preview                                                                                                           |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 🐾 **Veterinary Management System** | ![Veterinary Preview](https://github.com/Efe-Deniz/veterinarymanagementsystem/raw/main/screenshots/dashboard.png) |
+Work as a Software Engineer in Europe or globally
 
-> 🧩 *Each screenshot above will automatically appear when the images exist in the repository `/screenshots` folder.*
+Design and maintain scalable, real-world software systems
 
----
+💡 What Defines Me
 
-### 🌱 Currently Learning
+✨ Disciplined & consistent
+🧠 Strong backend mindset, growing frontend expertise
+🤝 Collaborative, detail-oriented, and pragmatic
+🔥 Believes every bug is a lesson and every refactor is growth
 
-* Advanced **Spring Boot & RESTful APIs**
-* **System Design** and **Software Architecture**
-* **Cloud deployment** (AWS / Docker fundamentals)
-
----
-
-### 🎯 My Goals
-
-* 🧩 **Short Term (Next 12 Months):**
-  Strengthen backend development, publish open-source Java projects, and start mentoring beginners.
-* 🌍 **Long Term (3–5 Years):**
-  Work as a professional **Software Engineer in Europe or the United States** and keep creating meaningful software.
-
----
-
-### 💡 What Defines Me
-
-✨ Disciplined | 💪 Consistent | 🤝 Collaborative | 🧠 Detail-Oriented
-🔥 Works great under pressure and believes that every bug hides a new lesson.
-
----
-
-### 🌈 Beyond Code
+🌈 Beyond Code
 
 👨‍👧 Spending time with my daughter
-🎧 Listening to audiobooks
-🎬 Watching documentaries & biography films
-💡 Following the latest tech trends and innovations
+🎧 Audiobooks & tech talks
+🎬 Documentaries & biographies
+💡 Following software engineering, AI, and tech trends
 
----
+📫 Connect With Me
+<p align="left"> <a href="https://github.com/Efe-Deniz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ali-efe-deniz-5744b2372" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dnz.ali.efe@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+🏷️ Version History
+Version	Focus	Description	Date
+v2.1	🌐 Full-Stack JavaScript	Removed project listings, strengthened JS & frontend focus while preserving backend background.	January 2026
+v2.0	🌐 Full-Stack Transition	Introduced frontend & full-stack orientation.	January 2026
+v1.x	🧠 Backend Foundations	Java & backend-focused profile.	2025
 
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Efe-Deniz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ali-efe-deniz-5744b2372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dnz.ali.efe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🏷️ Version History
-
-| Version  | Focus                                         | Description                                                                                    | Date         |
-| -------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ |
-| **v1.2** | 🧠 Backend (Java, JDBC, Layered Architecture) | Added Project Gallery and updated project repository links.                                    | October 2025 |
-| **v1.1** | 🧠 Backend (Java, JDBC, Layered Architecture) | Added Veterinary Management System and repository links to featured projects.                  | October 2025 |
-| **v1.0** | 🧠 Backend (Java, Spring Boot, PostgreSQL)    | Initial professional profile focused on backend development and layered architecture projects. | October 2025 |
-
----
-
-> 📅 Next Update: *v2.0 – Full Stack Edition*
-> Includes Frontend (React, HTML, CSS, JavaScript) and integrated projects demonstrating full-stack skills.
-
-> 🧩 “Software is the art of turning imagination into reality — one line of code at a time.”
-> — *Ali Efe Deniz*
+🧩 “Good software is built twice: first in the mind, then in code.”
+— Ali Efe Deniz
