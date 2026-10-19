@@ -1,71 +1,91 @@
 <h1 align="center">I'm <span style="color:#007acc;">Ali Efe Deniz</span></h1>
-<h3 align="center">💻 Full-Stack JavaScript Developer (in progress) | Backend-Oriented Engineer | Lifelong Learner</h3>
+<h3 align="center">🐍 Python Developer | AI & Deep Learning (in progress) | Financial Time Series Enthusiast</h3>
 
 ## 🧠 About Me
 
-I'm a software developer from İzmir, Turkey, currently focusing on full-stack JavaScript development.
+I'm a software developer from İzmir, Turkey, focusing on the **Python ecosystem and artificial intelligence**.
 
-My journey started with Java and backend fundamentals, where I built a strong understanding of:
-**software architecture, data flow, responsibility separation, and clean code principles.**
+Before software, I worked as a **lawyer for 6 years**. That experience shaped how I work:
+reading complex rules carefully, reasoning about edge cases, assessing risk, and writing precisely.
+I bring that same discipline to engineering, and I'm especially interested in where
+**AI, finance, and regulation** meet.
 
-Today, I'm expanding that foundation into the frontend and full-stack world, working with modern JavaScript technologies while keeping a backend-first mindset.
+My background in Java and JavaScript taught me the fundamentals of
+**software architecture, data flow, responsibility separation, and clean code.**
 
-For me, coding is not just about making things work —  
-it's about building systems that are **understandable, scalable, and maintainable.** 🚀
+Now I'm applying that foundation to **deep learning and LLMs**, with a particular interest in
+**financial time series and statistical arbitrage**, where rigor, reproducibility,
+and honest evaluation matter more than flashy results.
+
+For me, AI engineering is not just about training a model that scores well —
+it's about building systems that are **reliable, testable, and production-ready.** 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💬 Core Stack (Full-Stack JavaScript)
+### 🐍 Core: Python Ecosystem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite,nodejs,express,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,linux" />
 </p>
 
-### 🧠 Backend Background & Foundations
+### 📊 Data & Scientific Computing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🤖 AI & Deep Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning & Practicing
 
-- ⚛️ **React & Component-Based Architecture**
-- 🧩 **Advanced JavaScript** (async patterns, state, closures)
-- 🌐 **Full-Stack Integration** (frontend ↔ backend communication)
-- 🧠 **Software Architecture & System Thinking**
-- ☁️ **Deployment basics** (Netlify, cloud fundamentals)
+- 🧠 **Deep Learning fundamentals** with PyTorch (from first principles)
+- 🤖 **LLMs & Transformers** (fine-tuning, evaluation, inference)
+- 📈 **Financial time series** (stationarity, cointegration, backtesting pitfalls)
+- ⚖️ **Statistical arbitrage** and AI-assisted trading research
+- 🏗️ **ML engineering for production** (data pipelines, testing, serving models with FastAPI)
 
 ---
 
 ## 🎯 Career Focus
 
 ### 🧩 Short Term (Next 12 Months)
-- Build strong frontend & full-stack JavaScript projects
-- Strengthen React, Node.js, and API-driven development
-- Transition from junior to early mid-level full-stack developer
+- Build solid, end-to-end Python & AI projects
+- Master PyTorch, the Hugging Face ecosystem, and time-series modeling
+- Grow into an ML / AI engineer role
 
 ### 🌍 Long Term (3–5 Years)
-- Work as a **Software Engineer in Europe** or globally
-- Design and maintain scalable, real-world software systems
+- Work as an **AI / ML Engineer** in Europe or globally
+- Design and maintain AI systems that run reliably in production, especially in finance
+- Combine legal and engineering expertise in areas like RegTech, compliance, and AI governance
 
 ---
 
 ## 💡 What Defines Me
 
 - ✨ Disciplined & consistent
-- 🧠 Strong backend mindset, growing frontend expertise
+- ⚖️ Legal mindset: precise reasoning, risk awareness, and attention to edge cases
+- 🔬 Evidence over hype: I care about honest validation, not just good-looking metrics
+- 🧠 Strong engineering mindset, growing AI expertise
 - 🤝 Collaborative, detail-oriented, and pragmatic
-- 🔥 Believes every bug is a lesson and every refactor is growth
+- 🔥 Believes every bug is a lesson and every failed experiment is data
 
 ---
 
@@ -74,7 +94,7 @@ it's about building systems that are **understandable, scalable, and maintainabl
 - 👨‍👧 Spending time with my daughter
 - 🎧 Audiobooks & tech talks
 - 🎬 Documentaries & biographies
-- 💡 Following software engineering, AI, and tech trends
+- 💡 Following AI research, quantitative finance, and tech trends
 
 ---
 
@@ -98,8 +118,9 @@ it's about building systems that are **understandable, scalable, and maintainabl
 
 | Version | Focus | Description | Date |
 |---------|-------|-------------|------|
-| **v2.1** | 🌐 Full-Stack JavaScript | Removed project listings, strengthened JS & frontend focus while preserving backend background. | January 2026 |
-| **v2.0** | 🌐 Full-Stack Transition | Introduced frontend & full-stack orientation. | January 2026 |
+| **v3.1** | ⚖️ Law + AI | Added legal background as a differentiator for AI, finance and regulation. | October 2026 |
+| **v3.0** | 🐍 Python & AI | Refocused profile on the Python ecosystem, deep learning, LLMs and financial time series. | October 2026 |
+| **v2.x** | 🌐 Full-Stack JavaScript | Frontend & full-stack orientation. | January 2026 |
 | **v1.x** | 🧠 Backend Foundations | Java & backend-focused profile. | 2025 |
 
 ---
